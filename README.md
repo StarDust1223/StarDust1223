@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StarDust1223
 - 👀 I’m interested in art and game deelopment
-- 🌱 I’m currently learning php, html
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning php, html, c#, unity
 - 📫 How to reach me: dm me on my instagram at moonie.love_draws
 
 <!---
